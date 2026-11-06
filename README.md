@@ -23,7 +23,7 @@ Sblocca la piattaforma di analisi ufficiale.
 ---
 
 ### 🔹 STEP 2 & 3: Codice e Installazione
-Copia il codice dal file interno [Lorentzian_Classification.pine](Lorentzian_Classification.pine) incollalo nell'Editor della tua piattaforma di charting e clicca su "Aggiungi al grafico".
+Copia il codice dal file ufficiale [Lorentzian_Classification.pine](https://github.com), incollalo nell'Editor della tua piattaforma di charting e clicca su "Aggiungi al grafico".
 
 ---
 *Disclaimer: A solo scopo statistico ed educativo. Il trading comporta rischi.*
