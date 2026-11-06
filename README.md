@@ -1,37 +1,30 @@
 # 📈 Automatic Financial Alert System (Quick Setup: 3 Minutes)
 
-Welcome to this public open-source repository. Below you will find the step-by-step visual instructions and the source code to activate the geometric statistical indicator for market analysis (Bitcoin, Crypto, Forex, Indices).
+Repository open-source con istruzioni e codice per l'indicatore statistico di analisi di mercato (Crypto, Forex, Indici).
 
-The system plots clear visual signals directly on your chart:
-- 🟩 **GREEN Signal:** Potential upward market movement (Buy).
-- 🟥 **RED Signal:** Potential downward market movement (Sell).
-
----
-
-## ⚡ HOW TO ACTIVATE THE SIGNALS IN 3 SIMPLE STEPS:
-
-### 🔹 STEP 1: Choose Your Access Mode (Free or Professional)
-
-Select how you want to receive the automatic system alerts based on your preferences:
-
-👉 **[CLICK HERE FOR OPTION A: Receive Free Alerts on Your Phone](https://faucetpay.io)**
-If you want maximum convenience without configuring anything on your computer, join our automatic notification channel. It is 100% free.
-
-👉 **[OPTION B: Test the System with a FREE $10 Bonus]**
-If you want to see the system live on real markets with zero risk, register through our official partner. They will credit you a free welcome bonus with no deposit required.
-> [Verification in progress...]
-
-👉 **[CLICK HERE FOR OPTION C: Full Professional Chart Setup](https://tradingview.com)**
-If you want deep historical backtesting, multiple charts, and real-time custom alerts, unlock the full power of the official advanced charting platform.
+- 🟩 **Segnale VERDE:** Potenziale rialzo (Buy).
+- 🟥 **Segnale ROSSO:** Potenziale ribasso (Sell).
 
 ---
 
-### 🔹 STEP 2: Copy the Source Code
+## ⚡ COME ATTIVARE I SEGNALI IN 3 SEMPLICI STEP:
 
-If you selected Option C, completely copy the block of code inside the `Lorentzian_Classification.pine` file in this repository.
+### 🔹 STEP 1: Scegli la modalità di accesso
 
-### 🔹 STEP 3: Paste and Launch
-Open your charting platform, open the "Editor" tab at the bottom, paste the code, and click "Add to Chart". The visual buy and sell signals will appear instantly.
+👉 **[OPZIONE A: Ricevi segnali gratuiti sul telefono](https://faucetpay.io)**  
+Canale di notifica gratuito senza configurazioni al computer.
+
+👉 **[OPZIONE B: Testa il sistema con un Bonus gratuito](https://tradingview.com)**  
+Registrati tramite il partner ufficiale per testare la piattaforma avanzata di charting con backtesting e avvisi in tempo reale.
+
+👉 **[OPZIONE C: Setup professionale completo](https://tradingview.com)**  
+Sblocca la piattaforma di analisi ufficiale.
 
 ---
-*Disclaimer: This repository is for statistical and educational purposes only. Past performance does not guarantee future results. Trading involves capital risk.*
+
+### 🔹 STEP 2 & 3: Codice e Installazione
+Copia il codice dal file interno [Lorentzian_Classification.pine](Lorentzian_Classification.pine) incollalo nell'Editor della tua piattaforma di charting e clicca su "Aggiungi al grafico".
+
+---
+*Disclaimer: A solo scopo statistico ed educativo. Il trading comporta rischi.*
+
