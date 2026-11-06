@@ -27,4 +27,3 @@ Copia il codice dal file interno [Lorentzian_Classification.pine](Lorentzian_Cla
 
 ---
 *Disclaimer: A solo scopo statistico ed educativo. Il trading comporta rischi.*
-
