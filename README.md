@@ -23,7 +23,7 @@ Unlock the official advanced analysis platform.
 ---
 
 ### 🔹 STEP 2 & 3: Code and Installation
-Copy the complete source code from the official [Lorentzian_Classification.pine]([https://github.com](https://raw.githubusercontent.com/sfabrizioficarra-cmyk/quantitative-market-analysis/refs/heads/main/Lorentzian_Classification.pine)), file, paste it directly into your charting platform's Pine Editor, and click "Add to Chart".
+Copy the complete source code from the official [Lorentzian_Classification.pine](https://raw.githubusercontent.com/sfabrizioficarra-cmyk/quantitative-market-analysis/refs/heads/main/Lorentzian_Classification.pine), file, paste it directly into your charting platform's Pine Editor, and click "Add to Chart".
 
 ---
 *Disclaimer: For statistical and educational purposes only. Trading involves capital risk.*
