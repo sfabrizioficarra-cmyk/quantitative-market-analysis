@@ -22,7 +22,7 @@ Unlock the official advanced analysis platform.
 
 👉 **OPTION D: Get Real-Time Automated Market Signals**  
 Join our official, free Telegram channel to receive instant trend alerts directly on your phone:  
-[](https://t.me/quant_market_alerts)
+https://t.me/quant_market_alerts
 
 ---
 
