@@ -20,6 +20,10 @@ Register via our official partner link to test the advanced charting platform wi
 👉 **[OPTION C: Full Professional Chart Setup](https://it.tradingview.com/?aff_id=1174115)**  
 Unlock the official advanced analysis platform.
 
+👉 **OPTION D: Get Real-Time Automated Market Signals**  
+Join our official, free Telegram channel to receive instant trend alerts directly on your phone:  
+[](https://t.me/quant_market_alerts)
+
 ---
 
 ### 🔹 STEP 2 & 3: Code and Installation
